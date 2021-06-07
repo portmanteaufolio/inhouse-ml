@@ -1,6 +1,6 @@
 
 # In-house ML Onboarding
-In-house ML is a way of calling "in-datawarehouse machine learning". This repo is to collect and evaluate public resources to write onboarding materials for training purposes.
+`Inhouse ML` stands for `In data warehouse machine learning`, the datawarehouse equivalent of `in db machine learning`. This repo is to collect and evaluate public resources to write onboarding materials for training purposes.
 
 
 # Fair Use
